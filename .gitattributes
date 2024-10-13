@@ -1,2 +1,24 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+<title>My personal introduction</title>
+<style>
+body {
+background-color: #8F060A ;
+}
+h1 {
+color: #C14E09 ;
+}
+p {
+color: #F19D1B ;
+}
+</style>
+</head>
+<body>
+<h1>My name is Kush Patel</h1>
+<p>I am getting into IT, this is my first semester at Wake Tech.
+I enjoy gaining knowlegde about cars and working on cars. On my free time I 
+like to play basketball or go to the gym.</p>
+
+</body>
+</html>
